@@ -1,4 +1,4 @@
-# Hi, I'm Mikу 👋
+# Hi, I'm Mike 👋
 I'm a forward-thinking DevOps engineer with a hands-on mindset, strong automation instincts, and a personal tech lab of cutting-edge tools. I combine cloud-native infrastructure, AI automation, blockchain, and network engineering in real-world, production-ready setups. I follow a “Run – Change – Disrupt” philosophy and bring a vibe-driven, AI-augmented approach to infrastructure engineering.
 
 
@@ -36,6 +36,78 @@ I'm a forward-thinking DevOps engineer with a hands-on mindset, strong automatio
 </p>
    
 *   My last project, as the Senior DevOps - at [Skoltech](https://www.linkedin.com/school/skolkovo-institute-of-science-and-technology/) has ended in October 2021. 
+
+🔧 Tech Stack & Highlights
+✅ Containers & Orchestration
+
+Docker, Kubernetes (k8s, k3s), Docker Swarm
+
+Rancher OS, Kublr, Helm
+
+Hands-on experience deploying complex, multi-cluster environments
+
+CI/CD with GitLab CI, GitHub Actions
+
+✅ Own DevOpsGPT Agents
+
+Built personal AI-based assistants to automate CI/CD pipeline generation, infrastructure provisioning, monitoring analysis, and incident post-mortems
+
+Integrated with Python + LLMs (Ollama, Tabby, JupyterHub), tailored for infrastructure and cloud workflows
+
+✅ Infrastructure-as-Code
+
+Terraform (including Docker provider), Ansible
+
+HashiCorp Stack: Vault, Nomad, Consul
+
+Infrastructure deployments on Oracle Cloud, Huawei Cloud, DigitalOcean
+
+✅ Networking Expertise
+
+DNS, NAT, Load Balancing
+
+VPN: ZeroTier, VLESS, Trojan, Shadowsocks
+
+IPv6 (including BGP peering, tunnel brokers, reverse zones)
+
+Personal IPv6/AS setup, peering-ready with NorthIX
+
+✅ Monitoring & Logging
+
+Prometheus, Grafana, Loki, ELK/EFK, Zabbix, Netdata, Graylog
+
+✅ Smart Contracts & Blockchain
+
+Hyperledger Fabric configuration & deployment
+
+Smart contracts in Java
+
+Cardano-node & cardano-wallet operator
+
+Founder of Kotolapy Coin (KLC)
+Token on-chain: KLC
+
+✅ Dev & Automation
+
+Python, Bash, Java
+
+Firebase (debugging, analytics, crash tracking)
+
+✅ Other Projects
+
+Built and configured a private LoRaWAN network
+
+Experience in digital sovereignty tools and edge-first environments
+
+🌐 Availability & Legal Setup
+Open for freelance/B2B, contract, or long-term remote projects
+
+Operates through an active LLC in Poland and LLC in the USA
+
+Holds Permanent Residency (Pobyt Stały) in Poland
+
+🧩 Vibe & Vision
+I build things that work and scale. I automate everything that moves. I integrate AI where others stop at scripts. I don’t just follow DevOps trends — I experiment with, refine, and sometimes create them. My lab is my playground — and my clients get the results.
 
 ## 🛠 Technical Stack
 *   container virtualization - docker , kubernetes, orchestration - rancher os, kublr 
