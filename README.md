@@ -109,16 +109,3 @@ Holds Permanent Residency (Pobyt Stały) in Poland
 🧩 Vibe & Vision
 I build things that work and scale. I automate everything that moves. I integrate AI where others stop at scripts. I don’t just follow DevOps trends — I experiment with, refine, and sometimes create them. My lab is my playground — and my clients get the results.
 
-## 🛠 Technical Stack
-*   container virtualization - docker , kubernetes, orchestration - rancher os, kublr 
-*   unfolding the Hyperledger fabric blockchain in different configurations
-*   practical experience in the use of Python, Bash
-*   MySQL, PostgreSQL, MongoDB
-*   with deep understanding of network technologies: 
-*    • DNS, 
-*    • Load Balancing, 
-*    • NAT, 
-*    • VPN, 
-*    • IPV6 (Tunnel broker).
-*    • Infrastructure configuration management - Ansible, Terraform (provider docker), other Hashicorp products - Consul, Nomad.
-*   GitHub/GitLab
