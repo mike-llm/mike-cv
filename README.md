@@ -102,10 +102,6 @@ Experience in digital sovereignty tools and edge-first environments
 🌐 Availability & Legal Setup
 Open for freelance/B2B, contract, or long-term remote projects
 
-Operates through an active LLC in Poland and LLC in the USA
-
-Holds Permanent Residency (Pobyt Stały) in Poland
-
 🧩 Vibe & Vision
 I build things that work and scale. I automate everything that moves. I integrate AI where others stop at scripts. I don’t just follow DevOps trends — I experiment with, refine, and sometimes create them. My lab is my playground — and my clients get the results.
 
